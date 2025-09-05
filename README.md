@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Thawan Rodrigues
+🎓 Computer Science student
+## 🚀 Tech Stack
+- Java, Kotlin, Python, C# 
+- HTML, CSS, JavaScript  
+- SQL, Excel, Power BI  
+- Unity (Game Development)
+  
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
 
-<!--
-**Thawan33/Thawan33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Thawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thawan33&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thawanrodrigues33/)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:thawanrodrigue@email.com)
