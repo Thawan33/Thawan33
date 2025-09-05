@@ -3,7 +3,7 @@
 ## 🚀 Tech Stack
 - Java, Kotlin, Python, C# 
 - HTML, CSS, JavaScript  
-- SQL, Excel, Power BI  
+- SQL, Excel, Word
 - Unity (Game Development)
   
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
